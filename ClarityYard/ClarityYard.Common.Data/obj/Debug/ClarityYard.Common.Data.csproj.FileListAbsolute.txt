@@ -1,0 +1,22 @@
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.dll.config
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.csprojResolveAssemblyReference.cache
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.dll.config
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.Data.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\ClarityYard.Common.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.csprojResolveAssemblyReference.cache
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common.Data\obj\Debug\ClarityYard.Common.Data.pdb

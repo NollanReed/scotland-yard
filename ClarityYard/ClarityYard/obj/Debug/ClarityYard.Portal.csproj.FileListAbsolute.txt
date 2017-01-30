@@ -1,0 +1,188 @@
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ApplicationInsights.config
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\csc.exe
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\vbc.exe
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\VBCSCompiler.exe
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.dll.config
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Antlr3.Runtime.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.Common.Data.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.Common.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\EntityFramework.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\EntityFramework.SqlServer.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.Web.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.ApplicationInsights.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Newtonsoft.Json.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Owin.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Net.Http.Formatting.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Helpers.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.Owin.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.WebHost.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Mvc.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Optimization.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Razor.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.Deployment.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.Razor.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\WebGrease.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.Common.Data.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\ClarityYard.Common.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.Web.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.ApplicationInsights.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Newtonsoft.Json.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Net.Http.Formatting.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Helpers.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.WebHost.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Mvc.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Optimization.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Razor.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.Deployment.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.WebPages.Razor.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Antlr3.Runtime.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\EntityFramework.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\EntityFramework.SqlServer.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\bin\System.Web.Http.Owin.xml
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\obj\Debug\ClarityYard.Portal.csprojResolveAssemblyReference.cache
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\obj\Debug\ClarityYard.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard\obj\Debug\ClarityYard.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ApplicationInsights.config
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\csc.exe
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\vbc.exe
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\VBCSCompiler.exe
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.dll.config
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Antlr3.Runtime.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.Common.Data.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.Common.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\EntityFramework.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\EntityFramework.SqlServer.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.Web.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Newtonsoft.Json.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Owin.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Net.Http.Formatting.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Helpers.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.Owin.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.WebHost.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Mvc.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Optimization.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Razor.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.Razor.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\WebGrease.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.Common.Data.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\ClarityYard.Common.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.Web.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Newtonsoft.Json.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Net.Http.Formatting.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Helpers.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.WebHost.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Mvc.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Optimization.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Razor.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.WebPages.Razor.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Antlr3.Runtime.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\EntityFramework.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\EntityFramework.SqlServer.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\bin\System.Web.Http.Owin.xml
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\obj\Debug\ClarityYard.Portal.csprojResolveAssemblyReference.cache
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\obj\Debug\ClarityYard.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard\obj\Debug\ClarityYard.pdb

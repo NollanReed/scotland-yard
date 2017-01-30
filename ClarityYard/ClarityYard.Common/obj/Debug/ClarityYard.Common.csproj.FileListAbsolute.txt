@@ -1,0 +1,10 @@
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common\bin\Debug\ClarityYard.Common.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common\bin\Debug\ClarityYard.Common.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.csprojResolveAssemblyReference.cache
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.dll
+c:\users\sancho\documents\visual studio 2015\Projects\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common\bin\Debug\ClarityYard.Common.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common\bin\Debug\ClarityYard.Common.pdb
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.csprojResolveAssemblyReference.cache
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.dll
+C:\Users\nreed\Source\Repos\scotland-yard\ClarityYard\ClarityYard.Common\obj\Debug\ClarityYard.Common.pdb
